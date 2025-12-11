@@ -41,7 +41,7 @@ return(
     <form onSubmit={handleSubmit} style={{marginBottom:"20px"}}>
         <h2>umow sie na wizyte!</h2>
 
-        <div class="patient" style={{marginBottom="10px"}}>
+        <div class="patient" style={{marginBottom:"10px"}}>
             <label>
                 Imie i nazwisko: 
                 <br/>
